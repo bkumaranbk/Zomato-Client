@@ -9,32 +9,32 @@ function NutritionCarousel() {
   const categories = [
     {
       image:
-        "https://dote.zmtcdn.com/prod/data/admin_assets/images/baf809f0523c43d29f51d1e05f9f46be_1629263595.png?output-format=webp",
+        "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/0/AmazonStores/A21TJRUUN4KGV/4fdcaabd5545969580759caaa3f22a53.w6000.h1200._SL5000_CR0%2C0%2C5000%2C1000_SX1920_.png",
       title: "Protien & Fitness",
     },
     {
       image:
-        "https://dote.zmtcdn.com/prod/data/admin_assets/images/de47fcc91ced4e33b354909e897456e8_1628243615.png?output-format=webp",
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b484e636-3ed8-4960-a34e-e48a2bf9b0b9.__CR0,0,970,600_PT0_SX970_V1___.jpg",
       title: "Sleep & stress",
     },
     {
       image:
-        "https://dote.zmtcdn.com/prod/data/admin_assets/images/89fdc1246c12461db02d853a513ab616_1628243591.png?output-format=webp",
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d022466a-797f-4b2c-b7ff-f193a42f5d8f.__CR0,0,3880,1200_PT0_SX970_V1___.jpg",
       title: "Digestion & Weight Loss",
     },
     {
       image:
-        "https://dote.zmtcdn.com/prod/data/admin_assets/images/473ea322835ea870c0658b883c22dcf6_1626688305.png?output-format=webp",
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68be1d8b-630a-4f7b-adde-956c24f86872.__CR0,0,970,600_PT0_SX970_V1___.jpg",
       title: "Omegas & CoQ10",
     },
     {
       image:
-        "https://dote.zmtcdn.com/prod/data/admin_assets/images/76336cff326938873f922d4c1c72066c_1628243556.png?output-format=webp",
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/938c4694-1d02-44ab-a231-5dcb87aeac9b.__CR0,0,970,600_PT0_SX970_V1___.jpg",
       title: "Beauty & Skin Care",
     },
     {
       image:
-        "https://dote.zmtcdn.com/prod/data/admin_assets/images/c021611d9bce8289f48f59303b2d0fc6_1628243496.png?output-format=webp",
+        "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/7/AmazonStores/A21TJRUUN4KGV/62203a2e9b06bfa707ce93ca208d0b22.w6000.h1200._SL5000_CR0%2C0%2C5000%2C1000_SX1920_.png",
       title: "Immunity & Bones",
     },
   ];
