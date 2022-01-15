@@ -1,5 +1,5 @@
 
-function Footer() {
+function LargeFooter() {
     return (
         <footer className="border-t border-gray-200 lg:p-12">
         <div>
@@ -130,4 +130,24 @@ function Footer() {
     );
 
 }
+
+function MobileFooter() {
+<>
+
+</>
+
+}
+
+
+
+function Footer () {
+    return (
+        <>
+            <MobileFooter />
+            <LargeFooter />
+        </>
+      );
+}
+
+
 export default Footer;
