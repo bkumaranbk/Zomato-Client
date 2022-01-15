@@ -1,5 +1,7 @@
+import React, { useState } from "react";
 
 function LargeFooter() {
+    const dispatch = useDispatch();
     return (
         <footer className="border-t border-gray-200 lg:p-12">
         <div>
@@ -143,9 +145,12 @@ function MobileFooter() {
 
 
 function Footer () {
+    const dispatch = useDispatch();
     return (
         <>
+        <div  className="flex w-full items-center justify-between lg:hidden">
             <MobileFooter />
+        </div>
             <LargeFooter />
         </>
       );
