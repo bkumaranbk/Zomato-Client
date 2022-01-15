@@ -132,9 +132,11 @@ function LargeFooter() {
 }
 
 function MobileFooter() {
-<>
+    return (
+        <>
 
-</>
+        </>
+    );
 
 }
 
